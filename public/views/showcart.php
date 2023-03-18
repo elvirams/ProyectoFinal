@@ -44,23 +44,21 @@
                           </p>
                           <!-- Price -->
                           </div>
-                    </div>
-                    </div>
-                    </div>
-                    <div class='card'>
-                        <button type='button' class='btn  btn-block btn-lg'>Proceder a pagar</button>
-                    </div>"
-                    ;
-
-                    }
-                      
+                      </div>";
+                      }
+                    echo "<div class='card' >";
+                        echo "<button style='background-color:#864ddf; color:white;' type='button;' class='btn  btn-block btn-lg'>Proceder a pagar</button>";
+                    echo "</div>";
+      
                   }else {
                     echo "<center>";
                     echo "El carrito se encuentra vacío";
                     echo "</center>";
                   }
               ?>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
 </section>
