@@ -1,20 +1,20 @@
 # PROYECTO FINAL IAW
 ## ÍNDICE 
-1. OBJETIVOS DE LA PRÁCTICA
-2. ¿QUÉ ES EL MODELO VISTA CONTROLADOR? <br>
+1. OBJETIVOS DE LA PRÁCTICA (#id1)
+2. ¿QUÉ ES EL MODELO VISTA CONTROLADOR? <br> (#id2)
   2.1. CREACIÓN DEL MODELO VISTA CONTROLADOR
 3. IMPLEMENTACIÓN APLICACIÓN WEB EN LA MÁQUINA VIRUTAL CLOUD DEL DEPARTAMENTO <br>
   3.1. CONFIGURACIÓN DE LA MÁQUINA VIRUTAL <br>
   3.2. PONER EN MARCHAR NUESTRO ENTORNO
 
 ---
-# 1. OBJETIVOS DE LA PRÁCTICA
+# 1. OBJETIVOS DE LA PRÁCTICA <a name="id1"></a>
 En esta práctica pondremos en desarrollo el conocimiento adquirido durante los últimos meses. Hemos estado trabajando en la creación de un proyecto en PHP, es un lenguaje de programación utilizado en el desarrollo de aplicaciones web. Por lo que en esta práctica deberemos implementar una aplicación web en una modelo vista controlador. 
 
 Este repositorio contiene el código de implementación de los contenedores en la máquina virtual **EntornoDesarrolloPHP**, además de la carpeta **public** que es dónde se alojan todos los archivos documentados para la creación de la aplicación web, en lenguaje Php, Html, Css y Bootstrap.
 
 ---
-# 2. ¿QUÉ ES EL MODELO VISTA CONTROLADOR?
+# 2. ¿QUÉ ES EL MODELO VISTA CONTROLADOR? <a name="id2"></a>
 Un modelo vista controlador (MVC) es una propuesta de arquitectura del software utilizada para separar el código por sus distintas responsabilidades, manteniendo distintas capas que se encargan de hacer una tarea muy concreta, lo que ofrece beneficios diversos.
 
 ---  
