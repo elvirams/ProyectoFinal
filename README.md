@@ -75,6 +75,7 @@ Puesto en marcha nuestro entorno, pasaremos a configurar nuestra cliente de la b
 
 ![](FOTOS/3.png)
 
+![](FOTOS/4.png)
 ![](Fotos/4.png)
 
 ![](Fotos/5.png)
