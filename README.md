@@ -42,7 +42,7 @@ Para la creación del proyecto utilizaremos el modelo de vista del controlador d
 
 Una vez creado toda nuestra aplicación web en local, pasaremos a configurar nuestra máquina virtual situada en el cloud del departamento. Para ello deberemos conectarnos mediante **ssh** a la máquina virtual por nuestro puerto configurado, en mi caso sería  o por el siguiente enlace [https://informatica.iesalbarregas.com:2000](https://informatica.iesalbarregas.com:2000/).
 
-![](FOTOS/2.png)
+  ![](FOTOS/2.png)
 
 Una vez iniciada la sesión, debemos actualizar los repositorios del sistema, además de cambiar la dirección ip de la máquina a una dirección estática y cerrar sesión. Además, deberemos realizar un **update** y un **upgrade**
 
@@ -72,6 +72,8 @@ Este comando lo utilizaremos para poner en marchar nuestros contenedores. Ademá
 Hay que tener en cuenta que la primera vez que se realiza, puede dar fallo en la versión de nuestro entorno, por lo que deberemos pasar de una versión 3.9 a 3.3.
 
 Puesto en marcha nuestro entorno, pasaremos a configurar nuestra cliente de la base de datos. En la aplicación **HeidiSQL**, deberemos exportar la base de datos y llevarla a nuestra máquina virtual.
+
+![](FOTOS/2.png)
 
 ![](Fotos/3.png)
 
