@@ -17,7 +17,7 @@ Este repositorio contiene el código de implementación de los contenedores en l
 # 2. ¿QUÉ ES EL MODELO VISTA CONTROLADOR?
 Un modelo vista controlador (MVC) es una propuesta de arquitectura del software utilizada para separar el código por sus distintas responsabilidades, manteniendo distintas capas que se encargan de hacer una tarea muy concreta, lo que ofrece beneficios diversos.
 
-  
+---  
 ### **2.1. CREACIÓN DEL MODELO VISTA CONTROLADOR**
 ---
 Para la creación del proyecto utilizaremos el modelo de vista del controlador de la siguiente manera para la implementación del proyecto:
