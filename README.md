@@ -2,10 +2,10 @@
 ## ÍNDICE 
 1. [OBJETIVOS DE LA PRÁCTICA](#id1)
 2. [¿QUÉ ES EL MODELO VISTA CONTROLADOR?](#id2) <br> 
-  2.1. CREACIÓN DEL MODELO VISTA CONTROLADOR
-3. IMPLEMENTACIÓN APLICACIÓN WEB EN LA MÁQUINA VIRUTAL CLOUD DEL DEPARTAMENTO <br>
-  3.1. CONFIGURACIÓN DE LA MÁQUINA VIRUTAL <br>
-  3.2. PONER EN MARCHAR NUESTRO ENTORNO
+  2.1. [CREACIÓN DEL MODELO VISTA CONTROLADOR] (#id2.1)
+3. [IMPLEMENTACIÓN APLICACIÓN WEB EN LA MÁQUINA VIRUTAL CLOUD DEL DEPARTAMENTO] (#id3) <br>
+  3.1. [CONFIGURACIÓN DE LA MÁQUINA VIRUTAL] (#id3.1) <br>
+  3.2. [PONER EN MARCHAR NUESTRO ENTORNO] (#id3.2)
 
 ---
 # 1. OBJETIVOS DE LA PRÁCTICA <a name="id1"></a>
@@ -18,7 +18,7 @@ Este repositorio contiene el código de implementación de los contenedores en l
 Un modelo vista controlador (MVC) es una propuesta de arquitectura del software utilizada para separar el código por sus distintas responsabilidades, manteniendo distintas capas que se encargan de hacer una tarea muy concreta, lo que ofrece beneficios diversos.
 
 ---  
-### **2.1. CREACIÓN DEL MODELO VISTA CONTROLADOR**
+### **2.1. CREACIÓN DEL MODELO VISTA CONTROLADOR** <a name="id2.1"></a>
 ---
 Para la creación del proyecto utilizaremos el modelo de vista del controlador de la siguiente manera para la implementación del proyecto:
 
@@ -35,9 +35,9 @@ Para la creación del proyecto utilizaremos el modelo de vista del controlador d
   ![](FOTOS/1.png)
 
 ---
-# 3. IMPLEMENTACIÓN APLICACIÓN WEB EN LA MÁQUINA VIRUTAL CLOUD DEL DEPARTAMENTO
+# 3. IMPLEMENTACIÓN APLICACIÓN WEB EN LA MÁQUINA VIRUTAL CLOUD DEL DEPARTAMENTO <a name="id3"></a>
 
-### **3.1 CONFIGURACIÓN DE LA MÁQUINA VIRUTAL**
+### **3.1 CONFIGURACIÓN DE LA MÁQUINA VIRUTAL** <a name="id3.1"></a>
 ---
 
 Una vez creado toda nuestra aplicación web en local, pasaremos a configurar nuestra máquina virtual situada en el cloud del departamento. Para ello deberemos conectarnos mediante **ssh** a la máquina virtual por nuestro puerto configurado, en mi caso sería  o por el siguiente enlace [https://informatica.iesalbarregas.com:2000](https://informatica.iesalbarregas.com:2000/).
@@ -58,7 +58,7 @@ Además, aunque dentro del Docker tenemos un servidor de base de datos, necesita
     apt-get install mariadb-client
 
 ---
-### **3.2 PONER EN MARCHAR NUESTRO ENTORNO**
+### **3.2 PONER EN MARCHAR NUESTRO ENTORNO** <a name="id3.2"></a>
 ---
 
 Una vez ya realizada la configuración, pasaremos a poner en marchar nuestro entorno. Por lo que utilizaremos los siguientes comandos:
