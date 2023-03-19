@@ -76,11 +76,10 @@ Puesto en marcha nuestro entorno, pasaremos a configurar nuestra cliente de la b
 ![](FOTOS/3.png)
 
 ![](FOTOS/4.png)
-![](Fotos/4.png)
 
-![](Fotos/5.png)
+![](FOTOS/5.png)
 
 Terminada la configuración, podremos visualizar nuestro entorno, mediante la dirección ip o por el enlace siguiente [http://informatica.iesalbarregas.com:13001](http://informatica.iesalbarregas.com:13001). Dónde nos llevará a mi página principal **index.php**
 
-![](Fotos/6.png)
+![](FOTOS/6.png)
 
