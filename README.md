@@ -73,7 +73,7 @@ Hay que tener en cuenta que la primera vez que se realiza, puede dar fallo en la
 
 Puesto en marcha nuestro entorno, pasaremos a configurar nuestra cliente de la base de datos. En la aplicación **HeidiSQL**, deberemos exportar la base de datos y llevarla a nuestra máquina virtual.
 
-![](FOTOS/2.png)
+![](FOTOS/3.png)
 
 ![](Fotos/3.png)
 
